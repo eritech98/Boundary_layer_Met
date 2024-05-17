@@ -1,6 +1,6 @@
 ## <u>Ekman Spiral</u>
 This was an assignment about plotting cosine waves,sine wave and Hodographs under the topic "Ekman spiral".
-Languages used was python with numpy and matplotlib libraries
+The language used was python with numpy and matplotlib libraries
 
 Here are the graphs obtained
 
